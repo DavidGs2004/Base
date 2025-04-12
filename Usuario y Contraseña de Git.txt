@@ -1,0 +1,7 @@
+Contra = JOSEDAVIDGOMEZLOPEZ
+
+Usuario = DavidGs2004
+
+
+git config --global user.email "dg102090@gmail.com"
+  git config --global user.name "DavidGs2004"
